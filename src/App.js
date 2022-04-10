@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula de ESII, GitHub Actions - UFPI Workflow by Isaac.
+          Aula de ESII, GitHub Actions.
         </p>
         <a
           className="App-link"
