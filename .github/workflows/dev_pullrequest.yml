@@ -1,6 +1,6 @@
 name: DEV (pr) - Build & deploy
 on:
- pull request:
+ pull_request:
    branches:
      - dev
 jobs:
